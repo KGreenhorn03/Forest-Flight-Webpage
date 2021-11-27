@@ -1,0 +1,48 @@
+body
+{
+
+    background-color: black;
+    
+}
+
+titlediv
+{
+    
+    width: 100%;
+    height: auto;
+    
+}
+
+.title 
+{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+    padding-top: 25px;
+}
+
+swtdiv
+{
+    
+    width: 100%;
+    height: auto;
+    
+}
+
+.swth
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    text-decoration: underline;
+    
+}
+
+.swtp 
+{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
