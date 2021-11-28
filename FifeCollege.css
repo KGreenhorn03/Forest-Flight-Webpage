@@ -116,7 +116,7 @@ collegediv
     color: white;
     font-size: 50px;
     text-decoration: underline;
-    font font-family: 'Zen Antique' , serif;
+    font-family: 'Zen Antique' , serif;
     text-decoration-color: lime; 
     
 }
@@ -125,6 +125,46 @@ collegediv
 {
     text-align: center;
     color: white;
-    font-size: 18px;
-    font-family:  'Overpass' , sans-serif;
+    font-size: 25px;
+    font-family: 'Overpass' , sans-serif;
+}
+
+{
+
+    width: 100%;
+    height: auto;
+    
+}
+
+.collegerefh
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'Zen Antique' , serif;
+    text-decoration-color: lime;
+}
+
+.collegerefp 
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: 'Overpass' , sans-serif;
+    
+}
+
+.collegel
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: 'overpass' , sans-serif;
+    text-decoration: underline;
+    text-decoration-color: lime;
+    
 }
