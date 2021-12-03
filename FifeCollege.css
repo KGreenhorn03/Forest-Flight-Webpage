@@ -125,14 +125,17 @@ collegediv
 {
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 22px;
     font-family: 'Overpass' , sans-serif;
 }
 
-{
 
+refdiv
+{
+    
     width: 100%;
     height: auto;
+    clear: both;
     
 }
 
@@ -162,7 +165,7 @@ collegediv
     
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 22px;
     font-family: 'overpass' , sans-serif;
     text-decoration: underline;
     text-decoration-color: lime;
