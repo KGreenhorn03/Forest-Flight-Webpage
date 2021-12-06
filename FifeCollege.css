@@ -129,6 +129,23 @@ collegediv
     font-family: 'Overpass' , sans-serif;
 }
 
+.halbeathi
+{
+    
+    float: right;
+    margin-top: 30px;
+    padding-right: 75px;
+    
+}
+
+.stentoni
+{
+    
+    float: left;
+    margin-top: 30px;
+    padding-left: 75px;
+    
+}
 
 refdiv
 {
