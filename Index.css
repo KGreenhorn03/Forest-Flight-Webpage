@@ -129,3 +129,35 @@ welcomediv
     font-size: 18px;
     font-family:  'Overpass' , sans-serif;
 }
+
+.formh
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+    font font-family: 'Zen Antique' , serif;
+    text-decoration-color: lime; 
+    
+}
+
+.formp
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family:  'Overpass' , sans-serif;
+    
+}
+
+form
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family:  'Overpass' , sans-serif;
+    
+}
