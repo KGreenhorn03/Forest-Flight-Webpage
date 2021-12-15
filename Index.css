@@ -13,6 +13,14 @@ titlediv
     
 }
 
+.shield
+{
+    
+    float: left;
+   
+    
+}
+
 .title 
 {
     text-align: center;
@@ -22,6 +30,8 @@ titlediv
     padding-top: 25px;
     font-family: 'Fjalla One' , sans-serif;
     text-decoration-color: lime;
+    padding-right: 75px;
+    
 }
 
 nav

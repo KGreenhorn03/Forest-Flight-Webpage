@@ -128,3 +128,28 @@ btsdiv
     font-size: 18px;
     font-family:  'Overpass' , sans-serif;
 }
+
+.ebackground
+{
+    
+    text-align: center;
+    
+}
+
+.ebackgrounddiv
+{
+    
+    width: 100%;
+    height: auto;
+    
+}
+
+.ebackgroundp
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: 'Overpass' , sans-serif;
+    
+}
