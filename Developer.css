@@ -128,3 +128,33 @@ developerdiv
     font-size: 18px;
     font-family:  'Overpass' , sans-serif;
 }
+
+.imageh
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-decoration: underline;
+    font font-family: 'Zen Antique' , serif;
+    text-decoration-color: lime; 
+    
+}
+
+.imagep
+{
+    
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family:  'Overpass' , sans-serif;
+    
+}
+
+.imagediv
+{
+    
+    text-align: center;
+    
+}
+
